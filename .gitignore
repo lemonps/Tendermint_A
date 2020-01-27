@@ -14,14 +14,14 @@
 # Dependency directories (remove the comment below to include it)
 # vendor/
 
-.npm
-.bash_history
-.bashrc
-.cache
-.git
-.gnupg
-.local
-.npm
-.profile
-.ssh
-.Xauthority
+# .npm
+# .bash_history
+# .bashrc
+# .cache
+# .git
+# .gnupg
+# .local
+# .npm
+# .profile
+# .ssh
+# .Xauthority
